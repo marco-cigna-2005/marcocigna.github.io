@@ -15,8 +15,8 @@ My work focuses on leveraging advanced econometric techniques to address structu
 * **Monetary Policy:** Transmission mechanisms, shock identification, and money-market institutions.
 
 ##  Repository Structure
-* `Research/`: Contains my annual dissertations and research papers, including work on SVAR identification and statistical robustness.
-* `Scripts/`: **R** implementation for Structural VAR estimation, empirical analyses, replications of academic papers, and numerical simulations.
+* `Research`: Contains my annual dissertations and research papers, including work on SVAR identification and statistical robustness.
+* `Script`: **R** implementation for Structural VAR estimation, empirical analyses, replications of academic papers, and numerical simulations.
 * `CV_Marco_Cigna.pdf`: My detailed Curriculum Vitae.
 
 ##  Technical Skills
