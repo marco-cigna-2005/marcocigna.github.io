@@ -13,6 +13,7 @@ My work focuses on leveraging advanced econometric techniques to address structu
 * **SVAR Econometrics:** Identification via heteroskedasticity (changes in volatility) and independent components.
 * **Model Robustness:** Analysis of "Perturbation Bounds" for the omitted variable bias in structural models.
 * **Monetary Policy:** Transmission mechanisms, shock identification, and money-market institutions.
+* [Download my Thesis on SVARs](./Research/Cigna_Thesis_SVAR_Identification.pdf)
 
 ##  Repository Structure
 * `Research`: Contains my annual dissertations and research papers, including work on SVAR identification and statistical robustness.
