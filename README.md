@@ -14,15 +14,15 @@ My work focuses on leveraging advanced econometric techniques to address structu
 * **Model Robustness:** Analysis of "Perturbation Bounds" for the omitted variable bias in structural models.
 * **Monetary Policy:** Transmission mechanisms, shock identification, and money-market institutions.
 * [Download my Thesis on SVARs](./Research/Cigna_Thesis_SVAR_Identification.pdf)
-
+* Check also my paper on omitted variables and weak identification, also available in LEM Working Paper Series, N°2026/31.
 ##  Repository Structure
 * `Research`: Contains my annual dissertations and research papers, including work on SVAR identification and statistical robustness.
 * `Script`: **R** implementation for Structural VAR estimation, empirical analyses, replications of academic papers, and numerical simulations.
-* `cv_MC.pdf`: My detailed Curriculum Vitae.
+* `Academic_cv_MARCOCIGNA.pdf`: My detailed Curriculum Vitae.
 
 ##  Technical Skills
 * **Languages:** R (Proficient in SVAR, GLM, Statistical Learning), Python, LaTeX, SQL.
-* **Methodologies:** Time Series Analysis, Spectral Analysis, Structural Identification, Applied Statistical Modelling.
+* **Methodologies:** Time Series Analysis, Spectral Analysis, Structural Identification, Machine Learning.
 
 ---
 *Contact: [LinkedIn](https://www.linkedin.com/in/marco-cigna-56b079341/) | Email: marco.cigna.05@gmail.com*
